@@ -1,2 +1,6 @@
 học la vuifdfa
+<<<<<<< HEAD
 học thì vui lắm.
+=======
+học thì có gì vui?
+>>>>>>> 97700ca1dc77d28e3c7016381efea0b57439283c
